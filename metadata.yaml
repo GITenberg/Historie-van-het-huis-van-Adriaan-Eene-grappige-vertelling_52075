@@ -1,0 +1,27 @@
+_repo: Historie-van-het-huis-van-Adriaan-Eene-grappige-vertelling_52075
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2016-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52075'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, Dutch'
+- !lcc 'PZ'
+- !lcsh 'Nursery rhymes'
+- GITenberg
+title: 'Historie van het huis van Adriaan: Eene grappige vertelling'
+url: http://www.gutenberg.org/ebooks/52075
